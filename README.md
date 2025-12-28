@@ -3,6 +3,8 @@
 <h3 align="Left"> Hi, I'm Atharv — Aspiring Data Analyst<br>I’m a passionate Data Analyst Fresher skilled in Python, SQL, Excel, and Power BI.<br>I love transforming raw data into meaningful insights, clean dashboards, and data-driven decisions.<br>🔍 Strong interest in Data Analysis & Business Intelligence<br>🧹 Skilled in cleaning, modeling, and analyzing datasets<br>📊 Love creating dashboards that tell clear stories<br>🧠 Always learning new tools and improving my analytical thinking<br>💼 Looking for Internships / Entry-level Data Analyst roles
 .</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pangulatharv96-lab&label=Profile%20views&color=0e75b6&style=flat" alt="pangulatharv96-lab" /> </p>
+
 <img align="right" alt="Data Analysis" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 - 🌱 I’m currently learning **I am currently learning statistics and machine learning to strengthen my data analysis and predictive modeling skills.**
