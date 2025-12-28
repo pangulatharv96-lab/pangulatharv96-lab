@@ -1,6 +1,5 @@
-![logo]()
-# Atharv-Pangul
-<h1 align="center">Hi 👋, I'm Atharv Pangul</h1>
+![logo](https://github.com/pangulatharv96-lab/Atharv-Pangul/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+<h1 align="Left">Hi 👋, I'm Atharv Pangul</h1>
 <h3 align="Left"> Hi, I'm Atharv — Aspiring Data Analyst<br>I’m a passionate Data Analyst Fresher skilled in Python, SQL, Excel, and Power BI.<br>I love transforming raw data into meaningful insights, clean dashboards, and data-driven decisions.<br>🔍 Strong interest in Data Analysis & Business Intelligence<br>🧹 Skilled in cleaning, modeling, and analyzing datasets<br>📊 Love creating dashboards that tell clear stories<br>🧠 Always learning new tools and improving my analytical thinking<br>💼 Looking for Internships / Entry-level Data Analyst roles
 .</h3>
 
@@ -19,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png"alt="power-bi" width="40" height="40"/> </a> <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png"alt="Excel" width="40" height="40"/> </a> <img src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo-0.png"alt="powerpoint" width="40" height="40"/> </a> </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Activity Overview:
 ![](https://github-readme-stats.vercel.app/api?username=pangulatharv96-lab&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pangulatharv96-lab&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pangulatharv96-lab&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
